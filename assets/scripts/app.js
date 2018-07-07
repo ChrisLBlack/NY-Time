@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 var end = "";
 var start = "";
@@ -17,3 +18,19 @@ $.ajax({
 }).fail(function(err) {
   throw err;
 });
+=======
+$(document).ready(function(){
+
+
+
+
+
+
+
+
+
+
+
+    
+})
+>>>>>>> bf149819bed0cac0c54f4012c789808024381c62
