@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-
+$(document).ready(function(){
 var end = "";
 var start = "";
 var q = "";
@@ -18,19 +17,5 @@ $.ajax({
 }).fail(function(err) {
   throw err;
 });
-=======
-$(document).ready(function(){
 
-
-
-
-
-
-
-
-
-
-
-    
 })
->>>>>>> bf149819bed0cac0c54f4012c789808024381c62
